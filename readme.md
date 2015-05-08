@@ -32,6 +32,7 @@ https://developers.google.com/web/fundamentals/performance/index
 ### Twittern:
 * https://twitter.com/jdalton
 * https://twitter.com/paul_irish
+* https://twitter.com/aerotwist
 * https://twitter.com/addyosmani
 * https://twitter.com/aerotwist
 
