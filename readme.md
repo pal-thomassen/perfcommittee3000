@@ -34,6 +34,9 @@ https://developers.google.com/web/fundamentals/performance/index
 * https://twitter.com/paul_irish
 * https://twitter.com/addyosmani
 * https://twitter.com/aerotwist
+* https://twitter.com/tkadlec
+* https://twitter.com/patrickhamann
+* https://twitter.com/ianfeather
 
 #### Nettsider vi kan se på:
 
