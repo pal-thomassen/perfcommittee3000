@@ -36,3 +36,4 @@ https://developers.google.com/web/fundamentals/performance/index
 * https://www.vegvesen.no/vegkart/vegkart/
 * http://www.vegvesen.no/
 * http://www.radionordkapp.no/
+* http://adressa.no
