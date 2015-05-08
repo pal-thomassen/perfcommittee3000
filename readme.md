@@ -29,6 +29,11 @@ Pauls Irish presentasjoner:
 Google Web fundamentals performance:
 https://developers.google.com/web/fundamentals/performance/index
 
+### Twittern:
+* https://twitter.com/jdalton
+* https://twitter.com/paul_irish
+* https://twitter.com/addyosmani
+
 #### Nettsider vi kan se på:
 
 * http://inatur.no
