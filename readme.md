@@ -4,9 +4,11 @@
 
 Todelt, en for nettside-lasting og en for nettside kjøretidytelse.
 
+Planen er og først se en video for en felles intro til temaet, deretter ser vi på en del nettsider med analyse og diskusjon. Hvis mulig så kan vi forbedre ytelsen rett i chrome dev-tools for testing.
+
 ### Nettsidelasting
 1. Se video om content delivery optimization.  https://www.youtube.com/watch?v=R8W_6xWphtw (25 min)
-2. Se på case fra prosjekt. (Torgeirshow resten) (Tri tar litt om CSS-optimalisering)
+2. Se på case fra prosjekt. (Torgeirshow) (Tri tar litt om CSS-optimalisering)
 
 Stikkord: Chrome-dev-tools, Gzipping, minification og bundling, bildeoptimalisering, Critical rendering path, "Above the fold",
 
