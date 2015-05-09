@@ -29,6 +29,13 @@ Pauls Irish presentasjoner:
 Google Web fundamentals performance:
 https://developers.google.com/web/fundamentals/performance/index
 
+### Nyttige nettsider
+* http://www.webpagetest.org/
+* http://yslow.org/
+* https://developer.yahoo.com/performance/rules.htm
+* https://developers.google.com/speed/docs/insights/rules
+
+
 ### Twittern:
 * https://twitter.com/jdalton
 * https://twitter.com/paul_irish
